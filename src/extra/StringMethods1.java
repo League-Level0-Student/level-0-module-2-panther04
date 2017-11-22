@@ -2,13 +2,14 @@
 //    Level 0
 package extra;
 
+import javax.swing.JOptionPane;
 
 public class StringMethods1 {
 	public static void main(String[] args) {
 		
 		// 1. Create a String variable and initialize it to whatever you want
-
-		// 2. Print the 3rd char of your String to the console.
+String yelnats = "YOU WILL DIE!!!!!!!!Not know but soon Don't panick you have a lot more to go";
+// 2. Print the 3rd char of your String to the console.
 		//    HINT: .charAt
 		
 		// 3. Print the length of your String to the console.
